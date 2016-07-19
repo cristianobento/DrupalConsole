@@ -1,6 +1,6 @@
-description: 'Download module or modules in application'
+description: 'Baixar módulo(s) na aplicação'
 arguments:
-    module: 'Module or modules to be enabled should be separated by a space'
+    module: 'Módulo(s) a serem habilitados devem ser separados por um espaço or modules to be enabled should be separated by a space'
 options:
     latest: 'Default to download most recent version'
     path: 'The path of the contrib project'
